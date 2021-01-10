@@ -1,8 +1,10 @@
+# Aidan, the Coursera Student Assistant
+
 [Facebook Messenger Link](https://m.me/studentadvisorchatbot) [requires Facebook account]
 
 [Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25)
 
-Some suggested queries:
+## Some suggested queries:
 
 hi / yo / sup / hello / greetings / hey / aidan 
 
@@ -26,8 +28,6 @@ professional certificate on nutrition / etc.
 
 thanks / thank you / cool
 
->> entertain me / tell me a joke / how about a joke? / another joke
->> -  yes/no  answer
->>     - yes/no answer
+ entertain me / tell me a joke / how about a joke? / another joke [YES/NO answer 2x]
 
 bye / goodbye / cya / see ya
