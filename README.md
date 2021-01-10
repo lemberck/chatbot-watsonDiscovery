@@ -1,14 +1,14 @@
 # Aidan, the Coursera Virtual Assistant for Students
 This is my Capstone Project for IBM's Applied AI Professional Certificate. Aidan is a virtual assistant/chatbot powered by Watson AI,
 with Watson Discovery and Watson Assistant integration. With Discovery integration, Aidan has acess to a Coursera catalog with information 
-about 500 courses JSON files using advanced NLP, Concept Tagging and Keyword Extraction enrichments as data mining features. You can interact
-with Aidan here:
+about 500 courses JSON files using advanced NLP, Concept Tagging and Keyword Extraction enrichments as data mining features.
+It was deployed at a Facebook Page. You can interact with Aidan here:
 
 [Facebook Messenger Link](https://m.me/studentadvisorchatbot) **[Requires Facebook account]**
 
-[Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25)
+[Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25) **[No Facebook account required]
 
-[Recorded Test](link-do-gif-aqui)
+[Recorded Test](link-do-gif-aqui) **Watch a test here**
 
 ## Some suggested queries:
 
