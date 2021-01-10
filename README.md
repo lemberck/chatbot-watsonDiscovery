@@ -8,7 +8,7 @@ It was deployed at a Facebook Page. You can interact with Aidan here:
 
 [Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25) **[No Facebook account required]**
 
-[**WATCH a test here**](link-do-gif-aqui) 
+[**WATCH a test here**](https://github.com/lemberck/chatbot-watsonDiscovery/blob/main/aidan_test_.gif) 
 
 ## Some suggested queries:
 
