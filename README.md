@@ -12,28 +12,28 @@ It was deployed at a Facebook Page. You can interact with Aidan here:
 
 ## Some suggested queries:
 
-hi / yo / sup / hello / greetings / hey / aidan 
+- hi / yo / sup / hello / greetings / hey / aidan 
 
-who are you? / what are you? / present yourself / what's your name?
+- who are you? / what are you? / present yourself / what's your name?
 
-what should i study? / what should i learn? / what's trending?
+- what should i study? / what should i learn? / what's trending?
 
-i want to study python / recommend courses related to customers / anything about databases?
+- i want to study python / recommend courses related to customers / anything about databases?
 
-how much are the courses? / is it free? 
+- how much are the courses? / is it free? 
 
-tell me about financial aid / are there scholarships avaliable ?
+- tell me about financial aid / are there scholarships avaliable ?
 
-tell me about payment options / what are the payment options?
+- tell me about payment options / what are the payment options?
 
-how to cancel?
+- how to cancel?
 
-is there a professional certificate on PM / data science / entrepreneurship / etc.
+- is there a professional certificate on PM / data science / entrepreneurship / etc.
 
-professional certificate on nutrition / etc.
+- professional certificate on nutrition / etc.
 
-thanks / thank you / cool
+- thanks / thank you / cool
 
- entertain me / tell me a joke / how about a joke? / another joke [YES/NO answer 2x]
+- entertain me / tell me a joke / how about a joke? / another joke [YES/NO answer 2x]
 
-bye / goodbye / cya / see ya
+- bye / goodbye / cya / see ya
