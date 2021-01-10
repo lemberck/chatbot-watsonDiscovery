@@ -27,7 +27,6 @@ professional certificate on nutrition / etc.
 thanks / thank you / cool
 
 entertain me / tell me a joke / how about a joke? / another joke
-
 -  yes/no  answer
     - yes/no answer
 
