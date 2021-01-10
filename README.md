@@ -34,6 +34,8 @@ It was deployed at a Facebook Page. You can interact with Aidan here:
 
 - thanks / thank you / cool
 
-- entertain me / tell me a joke / how about a joke? / another joke [YES/NO answer 2x]
+- entertain me / tell me a joke / how about a joke? / another joke 
+
+    - [YES/NO answer 2x]
 
 - bye / goodbye / cya / see ya
