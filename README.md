@@ -6,7 +6,7 @@ It was deployed at a Facebook Page. You can interact with Aidan here:
 
 [Facebook Messenger Link](https://m.me/studentadvisorchatbot) **[Requires Facebook account]**
 
-[Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25) **[No Facebook account required]
+[Public Link](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=8650a6ac-3e6e-4527-91a6-60c986dd1d28&serviceInstanceID=77c27d91-0c1c-4009-9e8d-071e32681d25) **[No Facebook account required]**
 
 [Recorded Test](link-do-gif-aqui) **Watch a test here**
 
