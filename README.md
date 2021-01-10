@@ -8,7 +8,7 @@ hi / yo / sup / hello / greetings / hey / aidan
 
 who are you? / what are you? / present yourself / what's your name?
 
-what should i study? / what should i learn?
+what should i study? / what should i learn? / what's trending?
 
 i want to study python / recommend courses related to customers / anything about databases?
 
